@@ -22,7 +22,7 @@ console.log("////////////////////////////////////////////////");
 ///////////////////////////////////////////////////////////////
 
 
-const {items, newPerson} = require("./2-alternate-export")
+const {items, newPerson} = require("./02-alternate-export")
 
 console.log(items);
 console.log(newPerson);

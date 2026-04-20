@@ -1,4 +1,4 @@
-const logFunc = require("./4-bomboclat")
+const logFunc = require("./04-bomboclat")
 
 logFunc()
 

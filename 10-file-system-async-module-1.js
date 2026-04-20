@@ -1,6 +1,6 @@
 const {readFile,writeFile} = require('fs')
 
-//async read write functions require a callback function
+//async read write functions require a callback function (callback helll!!)
 
 console.log('start');
 
